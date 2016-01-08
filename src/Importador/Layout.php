@@ -1,6 +1,6 @@
 <?php
 
-namespace DominioSistemas;
+namespace EscritorioContabil\DominioSistemas;
 
 class Layout {
 
